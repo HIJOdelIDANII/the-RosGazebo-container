@@ -7,7 +7,7 @@ This setup allows you to run a full **ROS 2 Jazzy** desktop environment inside a
 
 - The container runs a lightweight Linux window manager (**Fluxbox**) with a virtual display (**Xvfb**).  
 - **x11vnc** shares the desktop as a VNC server.  
-- **noVNC / websockify** exposes the VNC session as a web page, default port **6080** inside the container.  
+- **noVNC / websockify** exposes the VNC session as a web page, default port **8080** inside the container.  
 - You can access ROS desktop applications (e.g., **RViz**, **Gazebo**) from any modern browser.
 
 
