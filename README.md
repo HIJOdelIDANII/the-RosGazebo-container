@@ -31,7 +31,7 @@ cd ros2-jazzy-cloud-gui/
 chmod u+x vm_setup.sh
 ./vm_setup.sh
 ```
-### 3. Download and Unzip noVN
+### 3. Download and Unzip noVNC
 ```bash
 wget https://github.com/novnc/noVNC/archive/refs/tags/v0.6.2.zip
 unzip v0.6.2.zip
