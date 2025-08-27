@@ -26,8 +26,8 @@ This setup allows you to run a full **ROS 2 Jazzy** desktop environment inside a
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-link>
-cd <your-repo-folder>
+git clone https://github.com/OORB-Open-Organic-Robotics/ros2-jazzy-cloud-gui.git
+cd ros2-jazzy-cloud-gui/
 ```
 ### 2. Setup the VM
 ```bash
