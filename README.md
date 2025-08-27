@@ -2,7 +2,6 @@
 
 This setup allows you to run a full **ROS 2 Jazzy** desktop environment inside a Docker container and access the GUI from your web browser using **noVNC**.
 
----
 
 ## How It Works
 
@@ -11,7 +10,6 @@ This setup allows you to run a full **ROS 2 Jazzy** desktop environment inside a
 - **noVNC / websockify** exposes the VNC session as a web page, default port **6080** inside the container.  
 - You can access ROS desktop applications (e.g., **RViz**, **Gazebo**) from any modern browser.
 
----
 
 ## Prerequisites
 
@@ -19,7 +17,6 @@ This setup allows you to run a full **ROS 2 Jazzy** desktop environment inside a
 - Basic knowledge of ROS 2 Jazzy and Linux terminal.
 - Access to the VM’s public IP address if connecting remotely.
 
----
 
 ## Quick Start
 
