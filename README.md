@@ -51,6 +51,6 @@ docker run -it --rm -p 8081:8080 -p 7682:7681 ros2-jazzy-gui
 http://<vm_ip_address>:8081
 http://<vm_ip_address>:7682
 
-![Screenshot 1](images/ss1.png)
-![Screenshot 2](images/ss2.png)
-![Screenshot 3](images/ss3.png)
+![Screenshot 1](screen-shots/ss1.png)
+![Screenshot 2](screen-shots/ss2.png)
+![Screenshot 3](screen-shots/ss3.png)
