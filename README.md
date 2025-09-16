@@ -44,7 +44,13 @@ unzip v0.6.2.zip
  ```
 ### 2 . Run the Docker Container
  ```bash
-docker run -it --rm -p 8081:8080 ros2-jazzy-gui
+docker run -it --rm -p 8081:8080 -p 7682:7681 ros2-jazzy-gui
+
  ```
 ### 3 . Access the GUI
 http://<vm_ip_address>:8081
+http://<vm_ip_address>:7682
+
+![Screenshot 1](images/ss1.png)
+![Screenshot 2](images/ss2.png)
+![Screenshot 3](images/ss3.png)
